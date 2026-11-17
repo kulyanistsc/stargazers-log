@@ -1,0 +1,23 @@
+[
+  {
+    "name": "public-apis",
+    "owner": "public-apis",
+    "description": "A collective list of free APIs for use in software and web development.",
+    "url": "https://github.com/public-apis/public-apis",
+    "starredAt": "2025-03-14"
+  },
+  {
+    "name": "fastapi",
+    "owner": "fastapi",
+    "description": "A modern, fast web framework for building APIs with Python.",
+    "url": "https://github.com/fastapi/fastapi",
+    "starredAt": "2025-02-08"
+  },
+  {
+    "name": "mermaid",
+    "owner": "mermaid-js",
+    "description": "Generation of diagrams and charts from text definitions.",
+    "url": "https://github.com/mermaid-js/mermaid",
+    "starredAt": "2025-01-21"
+  }
+]
